@@ -11,8 +11,8 @@ using PaymentAPI.Models;
 namespace PaymentAPI.Migrations
 {
     [DbContext(typeof(PaymentDetailContext))]
-    [Migration("20240217125522_intialdb")]
-    partial class intialdb
+    [Migration("20240218043136_initial")]
+    partial class initial
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

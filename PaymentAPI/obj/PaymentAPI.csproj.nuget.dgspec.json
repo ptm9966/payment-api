@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\PTM\\ASP.netProject\\asp.net _core_with_angular_16_pamnet_test\\PaymentAPI\\PaymentAPI\\PaymentAPI.csproj": {}
+    "C:\\PTM\\git\\payment-api\\PaymentAPI\\PaymentAPI.csproj": {}
   },
   "projects": {
-    "C:\\PTM\\ASP.netProject\\asp.net _core_with_angular_16_pamnet_test\\PaymentAPI\\PaymentAPI\\PaymentAPI.csproj": {
+    "C:\\PTM\\git\\payment-api\\PaymentAPI\\PaymentAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\PTM\\ASP.netProject\\asp.net _core_with_angular_16_pamnet_test\\PaymentAPI\\PaymentAPI\\PaymentAPI.csproj",
+        "projectUniqueName": "C:\\PTM\\git\\payment-api\\PaymentAPI\\PaymentAPI.csproj",
         "projectName": "PaymentAPI",
-        "projectPath": "C:\\PTM\\ASP.netProject\\asp.net _core_with_angular_16_pamnet_test\\PaymentAPI\\PaymentAPI\\PaymentAPI.csproj",
+        "projectPath": "C:\\PTM\\git\\payment-api\\PaymentAPI\\PaymentAPI.csproj",
         "packagesPath": "C:\\Users\\aravi\\.nuget\\packages\\",
-        "outputPath": "C:\\PTM\\ASP.netProject\\asp.net _core_with_angular_16_pamnet_test\\PaymentAPI\\PaymentAPI\\obj\\",
+        "outputPath": "C:\\PTM\\git\\payment-api\\PaymentAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aravi\\AppData\\Roaming\\NuGet\\NuGet.Config",
