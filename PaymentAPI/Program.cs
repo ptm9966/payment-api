@@ -22,7 +22,7 @@ var app = builder.Build();
     app.UseSwaggerUI();
 
 app.UseCors(options =>
-options.WithOrigins("https://bikkam-book-app.azurewebsites.net")
+options.WithOrigins("https://bikkam-payment-app.azurewebsites.net")
 .AllowAnyMethod()
 .AllowAnyHeader());
 
